@@ -31,7 +31,7 @@ Sinta-se à vontade para contribuir para este projeto. Se você tiver sugestões
 
 ## Licença
 
-Este projeto tem um codigo de lincensa aberto fique a vontade para desfrutar!
+Este projeto tem um codigo de licença aberto fique a vontade para desfrutar!
 
 ---
 
