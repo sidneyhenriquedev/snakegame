@@ -26,7 +26,7 @@ Certifique-se de ter um navegador web moderno instalado para jogar o game.
 <img src="./img/img_gameover.png">
 
 ## Jogue Agora Mesmo AQUI
-<a href="https://sidneyhenriquedev.github.io/snakegame/" target="_blank">JOGUE AGORA!</a>
+<a href="https://sidneyhenriquedev.github.io/snakegame/">JOGUE AGORA!</a>
 
 ## Contribuição
 
