@@ -1,6 +1,6 @@
 # snakegame
 
-Este é um simples jogo da cobrinha implementado com HTML, CSS e JavaScript.
+Este é um simples jogo da cobrinha Desenvolvido com as linguagens HTML, CSS e a Linguagem de Programacao JavaScript.
 
 ## Como Jogar
 
