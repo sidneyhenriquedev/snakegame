@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    background: linear-gradient(180deg, #3e1056 0%, #2810fc 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    color:#fff;
+    flex-direction: column;
+}
+
+.how-play{
+    display: flex;
+    flex-direction: column;
+    position:absolute;
+    justify-content: center;
+    flex-wrap: wrap;
+    top: 130px;   
+  
+   
+}
+
+p{
+    color:#fff;
+    width: 350px;
+    position: absolute;
+    left: 16px;
+    
+}
+
+canvas{ 
+    background-color: #191919;
+    border-top: 2px solid #fff;
+    border-right: 2px solid #fff;
+    border-left: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+}
+
+.container-points{
+    border-top: 2px solid #fff; 
+    border-radius: 60px 60px 0px 0px; 
+    width: 600px;
+    padding: 1.2em;
+    text-align: center;
+    align-items: center;
+   
+}
+
+.points{
+    font-size: 1.8em;
+    margin: 0px 20px
+}
+
+.spanPoints{
+    font-size: 1.6em;
+    color: #0000ff;
+    font-weight: 600;
+}
+
+.game-over{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 460px;
+    height: 320px;
+    gap: 1.1em;
+    background-color: #0000ff;
+    border-radius: 12px;
+    position: absolute;
+}
+
+.game-over>h1{
+    font-size: 2.8rem;
+    text-shadow: 4px 8px 12px #111;
+}
+
+.game-over>button{
+    padding: 15px;
+    border-radius: 18px;
+    font-size: 1.4em;
+    cursor: pointer;
+    border: none;
+    box-shadow: -2px 5px 12px 2px #191919;
+}
+
+.game-over>button:hover{
+    opacity: 0.8;
+}
+
+.game-over>button:active{
+    opacity: 0.6;
+}
+
+.development, .music-by{
+    color: #fff;
+    font-size: 1.2em;
+    background-color: #0000ff;
+    margin-left: 12px;
+    border-radius: 8px;
+    padding: 2px;
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/styles.css">
+    <title>Snake | Game By Sidney Henrique</title>
+</head>
+
+<body>
+
+    <div class="how-play">
+        <p>Pressione As Setas Direcionais do Teclado Ao lado Esquerdo dos Numeros Para Direcionar a Cobrinha.
+            Feito Isso o Game Inciará!<br> <br>Development By:<span class="development"> Sidney Henrique</span>
+            <br>Music Produced By:<span class="music-by">
+                Sidney Henrique</span>
+
+        </p>
+
+    </div>
+
+    <div class="container">
+        <audio id="audioeat" src="./audios/eat.mp3"></audio>
+        <audio autoplay loop id="startAudioGame" src="./audios/GameSnake_Sound_BySidneyHenrique.mp3"></audio>
+        <div class="container-points">
+            <div class="points">Pontos: <span class="spanPoints" id="points">0</span></div>
+        </div>
+        <canvas id="canvas" width="600" height="600"></canvas>
+        <div class="game-over" id="msgGameOver" style="display: none;">
+            <h1>Game Over</h1>
+            <h2>Voce Bateu!</h2>
+            <button title="Jogar Novamente" id="btnPlayAgain">Jogar Novamente?</button>
+        </div>
+    </div>
+</body>
+
+<script defer src="./js/scripts.js"></script>
+
+</html>
