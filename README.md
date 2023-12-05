@@ -19,8 +19,10 @@ Certifique-se de ter um navegador web moderno instalado para jogar o game.
 - `style.css`: Arquivo de estilo para o layout do jogo.
 - `script.js`: Lógica do jogo implementada em JavaScript.
 
-## Imgagens do Game
+## Imagens do Game
 <img src="./img/img_game.png">
+
+## Imagem Game Over
 <img src="./img/img_gameover.png">
 
 ## Contribuição
