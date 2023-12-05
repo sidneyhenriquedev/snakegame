@@ -25,6 +25,9 @@ Certifique-se de ter um navegador web moderno instalado para jogar o game.
 ## Imagem Game Over
 <img src="./img/img_gameover.png">
 
+## Jogue Agora Mesmo AQUI
+<a href="https://sidneyhenriquedev.github.io/snakegame/" target="_blank">JOGUE AGORA!</a>
+
 ## Contribuição
 
 Sinta-se à vontade para contribuir para este projeto. Se você tiver sugestões de melhorias ou encontrar problemas, abra uma nova issue ou envie um pull request.
